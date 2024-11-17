@@ -3,6 +3,7 @@
 A responsive map application built with React and Mapbox GL JS, featuring real-time location tracking, custom markers, and interactive navigation.
 
 ![Home Page](/public/Screenshoots/Home_Page.png)
+![Map Page](/public/Screenshoots/Map_page.png)
 
 ## 🚀 Features
 - Real-time map navigation
@@ -16,6 +17,7 @@ A responsive map application built with React and Mapbox GL JS, featuring real-t
 - Mapbox GL JS
 - Tailwind CSS
 - React Icons
+-react-router-dom
 
 ## 🛠️ Installation
 
